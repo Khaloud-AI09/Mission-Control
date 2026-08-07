@@ -477,4 +477,3 @@ Interested in AI products, generative AI, product management, and human-AI inter
 
 This project is intended as a personal learning and portfolio project.
 
-Add an appropriate open-source license if you decide to make the project available for reuse or modification.
